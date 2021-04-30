@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">A2L1</string>
+    <string name="clickDataClass">Show data class result</string>
+    <string name="clickObjClass">Show object class result</string>
 </resources>
